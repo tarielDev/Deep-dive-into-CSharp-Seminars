@@ -78,7 +78,7 @@
             }
             else
             {
-                Console.WriteLine("args isn't available!");
+                Console.WriteLine("args isn't available! Please add args!");
             }
 
         }
